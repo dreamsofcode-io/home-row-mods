@@ -42,7 +42,7 @@ Then, copy this file to your LaunchDaemon folder.
 
 
 ```
-sudo cp ./com.example.kanata.plist /Library/LaunchDaemon
+sudo cp ./com.example.kanata.plist /Library/LaunchDaemons/
 ```
 
 Once copied over, you can then load it using sudo 
